@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/maculopathy-diabetic-complications---primary.py
+inputModule3:
+  class: File
+  path: python/diabetic-complications-background---primary.py
+inputModule4:
+  class: File
+  path: python/diabetic-complications-prolif---primary.py
+inputModule5:
+  class: File
+  path: python/right-diabetic-complications---primary.py
+inputModule6:
+  class: File
+  path: python/retinopathy-diabetic-complications---primary.py
+inputModule7:
+  class: File
+  path: python/diabetic-complications-ulcer---primary.py
+inputModule8:
+  class: File
+  path: python/chronic-diabetic-complications---primary.py
+inputModule9:
+  class: File
+  path: python/diabetic-complications-manifestation---primary.py
+inputModule10:
+  class: File
+  path: python/nephropathy-diabetic-complications---primary.py
+inputModule11:
+  class: File
+  path: python/diabetic-complications-complicatn---primary.py
+inputModule12:
+  class: File
+  path: python/diabetic-complications-amyotrophy---primary.py
+inputModule13:
+  class: File
+  path: python/neuropathy-diabetic-complications---primary.py
+inputModule14:
+  class: File
+  path: python/diabetic-complications-circulatory---primary.py
+inputModule15:
+  class: File
+  path: python/diabetic-complications-gangrene---primary.py
+inputModule16:
+  class: File
+  path: python/noninsulindependent-diabetic-complications---primary.py
+inputModule17:
+  class: File
+  path: python/diabetic-complications-cataract---primary.py
+inputModule18:
+  class: File
+  path: python/arthropathy-diabetic-complications---primary.py
+inputModule19:
+  class: File
+  path: python/angiopathy-diabetic-complications---primary.py
+inputModule20:
+  class: File
+  path: python/diabetic-complications-proteinuria---primary.py
+inputModule21:
+  class: File
+  path: python/diabetic-complications-microalbuminuria---primary.py
+inputModule22:
+  class: File
+  path: python/exudative-diabetic-complications---primary.py
+inputModule23:
+  class: File
+  path: python/diabetic-complications-gastroparesis---primary.py
+inputModule24:
+  class: File
+  path: python/diabetic-complications-unspecified---primary.py
+inputModule25:
+  class: File
+  path: python/diabetic-complications-mononeuritis---primary.py
+inputModule26:
+  class: File
+  path: python/painful-diabetic-complications---primary.py
+inputModule27:
+  class: File
+  path: python/advanced-diabetic-complications---primary.py
+inputModule28:
+  class: File
+  path: python/diabetic-complications---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
